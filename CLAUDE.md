@@ -22,7 +22,7 @@ before ADAE or BDS.
 **Rscript path** — set this to your local Rscript before running the
 group-sequential-design skill (it writes and executes R):
 
-    Rscript path: <path to Rscript on your machine>
+    Rscript path: /usr/local/bin/Rscript
 
 Windows example: `C:\Program Files\R\R-4.4.1\bin\Rscript.exe`
 macOS/Linux example: `/usr/local/bin/Rscript`
